@@ -1,0 +1,13 @@
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EF-ContainsAndStartsWith.Test.dll.config
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EF-ContainsAndStartsWith.Test.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EF-ContainsAndStartsWith.Test.pdb
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EntityFramework.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EntityFramework.xml
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\obj\Debug\EF-ContainsAndStartsWith.Test.csprojResolveAssemblyReference.cache
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\obj\Debug\EF-ContainsAndStartsWith.Test.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\obj\Debug\EF-ContainsAndStartsWith.Test.pdb
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EF-ContainsAndStartsWith.DomainAndData.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.Test\bin\Debug\EF-ContainsAndStartsWith.DomainAndData.pdb

@@ -1,0 +1,12 @@
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EF-ContainsAndStartsWith.DomainAndData.dll.config
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EF-ContainsAndStartsWith.DomainAndData.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EF-ContainsAndStartsWith.DomainAndData.pdb
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EntityFramework.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EntityFramework.xml
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\obj\Debug\EF-ContainsAndStartsWith.DomainAndData.dll
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\obj\Debug\EF-ContainsAndStartsWith.DomainAndData.pdb
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\obj\Debug\EF_ContainsAndStartsWith.DomainAndData.Migrations.init.resources
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\obj\Debug\EF-ContainsAndStartsWith.DomainAndData.csproj.GenerateResource.Cache
+c:\users\nsa-pc\documents\visual studio 2015\Projects\EF-ContainsAndStartsWith\EF-ContainsAndStartsWith.DomainAndData\obj\Debug\EF-ContainsAndStartsWith.DomainAndData.csprojResolveAssemblyReference.cache

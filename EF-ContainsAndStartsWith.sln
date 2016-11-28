@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-ContainsAndStartsWith.Test", "EF-ContainsAndStartsWith.Test\EF-ContainsAndStartsWith.Test.csproj", "{F5E00F9B-8A9D-4D3F-BC0D-EA5DEF7821C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-ContainsAndStartsWith.DomainAndData", "EF-ContainsAndStartsWith.DomainAndData\EF-ContainsAndStartsWith.DomainAndData.csproj", "{2C22A13C-BD19-41A2-A8B0-A636E239881A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E00F9B-8A9D-4D3F-BC0D-EA5DEF7821C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E00F9B-8A9D-4D3F-BC0D-EA5DEF7821C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E00F9B-8A9D-4D3F-BC0D-EA5DEF7821C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E00F9B-8A9D-4D3F-BC0D-EA5DEF7821C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C22A13C-BD19-41A2-A8B0-A636E239881A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C22A13C-BD19-41A2-A8B0-A636E239881A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C22A13C-BD19-41A2-A8B0-A636E239881A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C22A13C-BD19-41A2-A8B0-A636E239881A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
